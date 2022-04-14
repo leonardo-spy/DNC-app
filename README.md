@@ -48,3 +48,4 @@ Para conseguir utilizar o WEBSITE como Administrador, voce pode utilizar o login
 }
 ```
 Readme em construção! Volte mais tarde :)
+Nota: Dependendo do Timezone do seu banco de dados, o horário de atualização do check-in pode ficar com horas de diferença!
