@@ -91,4 +91,4 @@ O Endpoints é acessado através da pagina pós login, mas que são formados de 
 Dependendo do Timezone do seu banco de dados, o horário de atualização do check-in pode ficar com horas de diferença!
 <br>
 ## Notas do Dev
-Eu Leonardo queria agradecer a DNC por estar proporcionando está oportunidade e por contribuir com a minha própra evolução.
+Eu Leonardo queria agradecer a DNC por estar proporcionando está oportunidade e por contribuir com a minha própria evolução.
