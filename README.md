@@ -2,7 +2,8 @@
 
 ## DNC Website
 
-Website em Laravel 8 para realizar o CRUD de check-ins e cadastramento de novos funcionarios.
+Website em Laravel 8 para realizar o CRUD de check-ins e cadastramento de novos funcionarios.<br>
+Caso queira ver uma demonstração, basta acessar está [simulação](https://dncgroup.000webhostapp.com) que disponibilizei!
 
 ## O que o projeto contém
 - Laravel 8
