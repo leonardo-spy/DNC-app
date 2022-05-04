@@ -1,11 +1,9 @@
 <b>Link nativo da Proposta: [https://dncgroupbr.notion.site/Backend-Developer-Jr-a31541680943410e8355f8d6406022ed](https://dncgroupbr.notion.site/Backend-Developer-Jr-a31541680943410e8355f8d6406022ed)</b><br>
-<img alt="🖥️" aria-label="🖥️" src="93b7757ff9893683aed03b72ba04450577730afd.svg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 78px; height: 78px;"/><br>
+<img alt="🖥️" aria-label="🖥️" src="https://user-images.githubusercontent.com/19514153/166836097-ffca11ec-c9db-473d-899f-988465e237dd.svg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 78px; height: 78px;"/><br>
+# <div style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">Backend Developer Jr.</div>
+<img src="https://user-images.githubusercontent.com/19514153/166836153-d4d0ed73-e1ff-41e1-bfb5-c892abd599b2.png" style="display: block; object-fit: cover; border-radius: 1px; background: white; pointer-events: auto; width: 100%;"/><br><br>
+## 😁 Seja muito bem-vindo!!
 
-# <div style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">Backend Developer Jr.</div><br>
-
-
-<img src="3bcb628806efcba090df45781bdef05a7792ca6e.png" style="display: block; object-fit: cover; border-radius: 1px; background: white; pointer-events: auto; width: 100%;"/><br><br>
-## 😁 Seja muito bem-vindo!
 Esse é o seu desafio backend! O objetivo desse desafio é avaliar suas habilidades técnicas e sua capacidade de resolução de problemas. Esse desafio engloba um problema que enfrentamos no dia-a-dia!<br>
 Quando sua solução estiver pronta, envie seu repositório do github no e-mail em que recebeu o contato para realização do desafio. Em seguida, enviaremos um feedback e as instruções dos próximos passos.<br>
 >⚠️ É importante que seu repositório esteja público, caso contrário não conseguiremos avaliar sua resposta.<br>
