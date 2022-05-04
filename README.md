@@ -2,7 +2,11 @@
 
 ## DNC Website
 
-Website em Laravel 8 para realizar o CRUD de check-ins e cadastramento de novos funcionarios.
+Website em Laravel 8 para realizar o CRUD de check-ins e cadastramento de novos funcionarios.<br>
+Caso queira ver uma demonstração, basta acessar está [simulação](https://dncgroup.000webhostapp.com) que disponibilizei (utilize o login padrão gerado abaixo da instalação)!
+
+## Proposta
+<b>Link da Proposta: [Proposta.md](./proposta.md#backend-developer-jr)</b>
 
 ## O que o projeto contém
 - Laravel 8
@@ -40,7 +44,7 @@ Para conseguir utilizar o WEBSITE como Administrador, voce pode utilizar o login
 - email: teste@teste.com
 - password: senha
 
-## Endpoints
+## Resultados & Endpoints
 O Endpoints é acessado através da pagina pós login, mas que são formados de rotas públicas e rotas protegidas, as rotas públicas você consegue acessar sem a autentificação do Login, as rotas protegidas você precisa estar logado.
 <br>
 - Rotas públicas:
