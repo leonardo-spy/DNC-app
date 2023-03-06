@@ -19,8 +19,8 @@ Para rodar o projeto faça essas configurações:
 - Clone o projeto (utilizando comando git ou baixando em zip)
 - Instale o composer
 ```
-php composer install
-php composer update
+composer install
+composer update
 ```
 - Renomeie o .env.example para .env
 - Configure o banco de dados como no exemplo abaixo
